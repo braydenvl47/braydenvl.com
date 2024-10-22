@@ -15,7 +15,6 @@ p {
 }
 
 body {
-  background-image: url('moon-3840x2160-planet-4k-23540.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: url('D-Brayden-Van-Landschoot-Opdr05-01.png');
+  background-size: contain;
 }
