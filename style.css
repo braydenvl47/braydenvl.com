@@ -1,3 +1,7 @@
+html {
+  color: white;
+}
+
 h1 {
   font-size: 4rem;
   font-weight: 800;
@@ -8,4 +12,10 @@ p {
   font-size: 1.25rem;
   font-weight: 400;
   font-family: sans-serif;
+}
+
+body {
+  background-image: url('moon-3840x2160-planet-4k-23540.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
