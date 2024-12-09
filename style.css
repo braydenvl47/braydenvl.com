@@ -22,7 +22,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 50px); /* Adjust height for header */
+    height: calc(100vh - 100px); /* Adjust height for header */
     padding: 20px;
 }
 
